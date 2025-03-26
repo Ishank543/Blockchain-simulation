@@ -17,7 +17,7 @@ This project is a basic blockchain simulation implemented in Python. It demonstr
 1. Clone the repository:
    ```sh
    git clone https://github.com/Ishank543/Blockchain-simulation.git
-   cd simple-blockchain
+   cd Blockchain-simulation
    ```
 2. Run the script:
    ```sh
